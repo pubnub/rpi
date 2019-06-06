@@ -1,17 +1,15 @@
-rpi
-===
-
 PubNub for Raspberry Pi
+=======================
 
-Recommended PubNub SDK for Raspberry Pi is POSIX C:
+The recommended PubNub SDK for Raspberry Pi is POSIX C:
 
 https://github.com/pubnub/c-core/tree/master/posix
 
-for C++ :
+For C++ :
 
 https://github.com/pubnub/c-core/tree/master/cpp
 
-you can also use any PubNub client on Linux, like:
+You can also use any PubNub client on Linux, like:
 
 https://github.com/pubnub/python
 

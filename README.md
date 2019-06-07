@@ -1,9 +1,22 @@
-rpi
-===
-
 PubNub for Raspberry Pi
+=======================
 
-You can run just about any PubNub client on Linux, but for an example of running our C client natively on RPi, checkout our example at:
+The recommended PubNub SDK for Raspberry Pi is POSIX C:
 
+https://github.com/pubnub/c-core/tree/master/posix
 
-https://github.com/pubnub/c/tree/master/examples/rpi-mplayer
+For C++ :
+
+https://github.com/pubnub/c-core/tree/master/cpp
+
+You can also use any PubNub SDK on Linux, like:
+
+https://github.com/pubnub/python
+
+https://github.com/pubnub/java
+
+https://github.com/pubnub/javascript
+
+https://github.com/pubnub/ruby
+
+https://github.com/pubnub/go

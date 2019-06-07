@@ -9,7 +9,7 @@ For C++ :
 
 https://github.com/pubnub/c-core/tree/master/cpp
 
-You can also use any PubNub client on Linux, like:
+You can also use any PubNub SDK on Linux, like:
 
 https://github.com/pubnub/python
 
